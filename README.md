@@ -104,3 +104,5 @@ These generators are not suitable for cryptographic use.
 Do not use them for generating tokens, encryption keys, or security-sensitive randomness.
 
 For production applications requiring high-quality randomness, use the rand crate.
+
+This is for learning purpose...
